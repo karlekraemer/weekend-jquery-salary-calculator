@@ -1,0 +1,24 @@
+#pageHeader {
+    background-color: darkolivegreen;
+    color:whitesmoke;
+    text-align: center;
+    padding: 5px;
+}
+
+body {
+    background-color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table, th, td {
+    border: 2.5px solid darkolivegreen;
+    border-collapse: collapse;
+}
+
+.over-red {
+    background-color: red;
+}
+
+.good-whitesmoke {
+    background-color: whitesmoke;
+}
